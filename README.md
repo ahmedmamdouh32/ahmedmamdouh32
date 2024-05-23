@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <img src="https://i0.wp.com/www.bvm.co.uk/wp-content/uploads/2021/07/jetway-arm-embedded-systems.jpg?resize=1140%2C641&ssl=1" alt="cover" height ="400" width = "1200"/>
 
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
