@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZtGfVH86uTqjYzTqQqmu1bq3mKffI9N5XYx-N0WZHA&s">
 
-- 🌱 I’m currently learning **Electronics & embedded systems**
+- 🌱 I’m currently learning **Backend Development using .NET Framework**
 
-- 💬 Ask me about **C/C++, MCU Interfacing, Electronics, PCB Design**
+- 💬 Ask me about **C#, Python, WEB Apps, PCB Design, MCU Interfacing**
 
 - 📫 How to reach me **ahmedmamdouh@ieee.org**
 
