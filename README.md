@@ -1,16 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
-<h3 align="center">Communication & Computer Engineering student</h3>
+<h3 align="center">Communication & Computer Engineering graduate</h3>
 
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZtGfVH86uTqjYzTqQqmu1bq3mKffI9N5XYx-N0WZHA&s">
 
-- 🌱 I’m currently learning **Backend Development using .NET Framework**
+- 🌱 I’m currently learning **Fullstack Development using .NET Framework**
 
-- 💬 Ask me about **C#, Python, WEB Apps, PCB Design, MCU Interfacing**
+- 💬 Ask me about **C++/C#, Python, WEB Development**
 
 - 📫 How to reach me **ahmedmamdouh.am32@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1MVwoe_ujUSh2OWVXP0wse3n-L5VgK9a3/view?usp=drive_link)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
