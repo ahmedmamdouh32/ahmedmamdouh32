@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
 <h3 align="center">Communication & Computer Engineering graduate</h3>
 
