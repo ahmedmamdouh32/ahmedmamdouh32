@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
-<h3 align="center">Junior .NET Developer | ASP.NET Core • C# • React • Angular</h3>
+<h3 align="center">Junior .NET Developer | ASP.NET Core • Angular</h3>
 
 <p align="center">
 Building scalable web applications with modern .NET technologies and clean architecture.
