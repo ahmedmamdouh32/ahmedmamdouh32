@@ -1,37 +1,103 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mamdouh</h1>
-<h3 align="center">Communication & Computer Engineering graduate</h3>
+<h3 align="center">Junior .NET Developer | ASP.NET Core • C# • React • Angular</h3>
 
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZtGfVH86uTqjYzTqQqmu1bq3mKffI9N5XYx-N0WZHA&s">
-
-- 🌱 I’m currently learning **Fullstack Development using .NET Framework**
-
-- 💬 Ask me about **C++/C#, Python, WEB Development**
-
-- 📫 How to reach me **ahmedmamdouh.am32@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-mamdouh-9600b7202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mamdouh-9600b7202" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed.mamdouh.376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed.mamdouh.376" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@electronicshut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="electronicshut" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmedmamdouh_am1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmedmamdouh_am1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmedmamdouh32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedmamdouh32" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with modern .NET technologies and clean architecture.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  
-  
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-
-
+<p align="center">
+  <a href="https://ahmedmamdouh.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ahmedmamdouh32">LinkedIn</a> •
+  <a href="https://github.com/ahmedmamdouh32">GitHub</a>
 </p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmamdouh32&show_icons=true&locale=en&layout=compact" alt="ahmedmamdouh32" /></p>
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. in Communication & Computer Engineering
+- 💼 Junior **.NET Developer** passionate about building scalable backend systems
+- 🚀 Experienced with **ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, Clean Architecture**
+- 🌱 Currently exploring **Cloud, Docker, AI integration, and System Design**
+- 🤝 Always excited to collaborate on interesting projects
+- 📫 Reach me at **ahmedmamdouh.am32@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+</p>
+
+**C# • ASP.NET Core • Entity Framework Core • LINQ • SQL Server • MySQL • REST APIs • JWT Authentication**
+
+---
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+</p>
+
+**React • Angular • TypeScript • JavaScript • HTML • CSS • Bootstrap**
+
+---
+
+### Tools & Technologies
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+---
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmamdouh32&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmamdouh32&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://ahmedmamdouh.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmedmamdouh32">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ahmedmamdouh32">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:ahmedmamdouh.am32@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
