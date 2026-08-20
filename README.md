@@ -15,12 +15,14 @@ Building scalable web applications with modern .NET technologies and clean archi
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. in Communication & Computer Engineering
-- 💼 Junior **.NET Developer** passionate about building scalable backend systems
-- 🚀 Experienced with **ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, Clean Architecture**
-- 🌱 Currently exploring **Cloud, Docker, AI integration, and System Design**
-- 🤝 Always excited to collaborate on interesting projects
-- 📫 Reach me at **ahmedmamdouh.am32@gmail.com**
+* 🎓 B.Sc. in **Communication & Computer Engineering**
+* 💼 **Full Stack Developer** specializing in **.NET & Angular**
+* 🚀 Experienced in building scalable web applications using **C#, ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, and Angular**
+* 🏗️ Passionate about **Clean Architecture, software design, and building maintainable applications**
+* 🤖 Interested in **AI integration, Docker, Cloud technologies, and System Design**
+* 🌱 Continuously learning and improving my skills in modern **.NET and Angular development**
+* 🤝 Open to collaborating on interesting projects and building impactful solutions
+* 📫 Reach me at **[ahmedmamdouh.am32@gmail.com](mailto:ahmedmamdouh.am32@gmail.com)**
 
 ---
 
@@ -31,9 +33,10 @@ Building scalable web applications with modern .NET technologies and clean archi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/>
 </p>
 
-**C# • ASP.NET Core • Entity Framework Core • LINQ • SQL Server • MySQL • REST APIs • JWT Authentication**
+**C# • ASP.NET Core • Entity Framework Core • LINQ • SQL Server • MySQL • REST APIs • JWT Authentication • JWT Authentication**
 
 ---
 
@@ -60,8 +63,8 @@ Building scalable web applications with modern .NET technologies and clean archi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </p>
 
 ---
